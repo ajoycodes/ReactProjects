@@ -1,0 +1,35 @@
+* {
+  background-color: rgb(145, 77, 255);
+}
+
+.heading {
+  text-align: center;
+
+  font-size: 30px;
+  margin: 20px 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #ffffff;
+}
+
+.button {
+  border: 4px solid #ffffff;
+  color: white;
+  padding: 30px;
+  text-align: center;
+  font-size: 24px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contain {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
